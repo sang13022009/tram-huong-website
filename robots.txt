@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /gio-hang.html
+Sitemap: https://tramhuongdanang.vn/sitemap.xml
