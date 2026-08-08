@@ -1,0 +1,19 @@
+services:
+  - type: web
+    runtime: static
+    name: tram-huong-da-nang-preview
+    repo: https://github.com/sang13022009/tram-huong-website
+    branch: main
+    buildCommand: echo "Static site - no build step"
+    staticPublishPath: .
+    autoDeployTrigger: commit
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - path: /*
+        name: X-Frame-Options
+        value: SAMEORIGIN
