@@ -1,0 +1,10 @@
+window.PRODUCTS=[
+{id:'tram-216-4mm',name:'Vòng Trầm Tốc Tự Nhiên 216 Hạt 4mm',price:525000,oldPrice:625000,category:'chuoi',label:'Chuỗi 216 hạt',badge:'-16%',tone:'earth',elements:['Mộc','Hỏa'],purposes:['binh-an','tinh-tam'],desc:'Chuỗi hạt nhỏ thanh lịch, phù hợp đeo hằng ngày và tĩnh tâm.'},
+{id:'tram-chim-8mm',name:'Vòng Trầm Chìm Tự Nhiên 8mm',price:4850000,category:'vip',label:'Trầm chìm',badge:'Tuyển chọn',tone:'deep',elements:['Thủy','Mộc'],purposes:['tai-loc','cong-viec'],desc:'Tông trầm sâu, cảm giác đằm tay và phong cách sang trọng.'},
+{id:'tram-toc-10mm',name:'Vòng Trầm Tốc 10mm Nam Nữ',price:890000,oldPrice:1050000,category:'vong',label:'Vòng tay',badge:'Bán chạy',tone:'gold',elements:['Thổ','Kim'],purposes:['cong-viec','tai-loc'],desc:'Kích thước cân bằng, dễ phối đồ và phù hợp dùng hằng ngày.'},
+{id:'tram-do-12mm',name:'Vòng Trầm Đỏ Già Dầu 12mm',price:1750000,category:'vong',label:'Già dầu',badge:'Mới',tone:'redwood',elements:['Hỏa','Thổ'],purposes:['tai-loc','binh-an'],desc:'Màu gỗ ấm, bề mặt nổi vân và phong thái mạnh mẽ.'},
+{id:'nhang-tram',name:'Nhang Trầm Tự Nhiên Không Tăm',price:290000,category:'nhang',label:'Thưởng hương',badge:'Thư giãn',tone:'smoke',elements:['Mộc','Hỏa'],purposes:['tinh-tam','binh-an'],desc:'Dùng cho không gian thiền, đọc sách và thư giãn cuối ngày.'},
+{id:'tram-108-6mm',name:'Chuỗi Trầm 108 Hạt 6mm',price:1280000,category:'chuoi',label:'Chuỗi 108 hạt',badge:'Tinh tuyển',tone:'amber',elements:['Mộc','Hỏa'],purposes:['tinh-tam','binh-an'],desc:'Thiết kế gọn, phù hợp đeo tay nhiều vòng hoặc dùng khi tĩnh tâm.'},
+{id:'tram-den-14mm',name:'Vòng Trầm Sẫm Dầu 14mm',price:2350000,category:'vip',label:'Sẫm dầu',badge:'Nam tính',tone:'charcoal',elements:['Thủy','Mộc'],purposes:['cong-viec','tai-loc'],desc:'Hạt lớn, sắc trầm sâu và hiện diện rõ trên cổ tay.'},
+{id:'gift-set',name:'Hộp Quà Trầm Hương Thanh Vân',price:1490000,category:'qua-tang',label:'Quà tặng',badge:'Quà cao cấp',tone:'gift',elements:['Kim','Thổ'],purposes:['cong-viec','binh-an'],desc:'Bộ quà chỉn chu dành cho đối tác, người thân và dịp đặc biệt.'}
+];
